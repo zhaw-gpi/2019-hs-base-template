@@ -1,4 +1,4 @@
-Björn Scheppler, 8.9.2019
+Björn Scheppler, 28.8.2020s
 
 # Camunda Spring Boot Template (camunda-spring-boot-template)
 Diese Template-Repository wird an der ZHAW im Modul Geschäftsprozessintegration genutzt als Ausgangspunkt für auf Camunda beruhende Projekte. Enthalten sind folgende Funktionalitäten:
