@@ -1,10 +1,10 @@
-Björn Scheppler, 28.8.2020s
+Björn Scheppler, 28.4.2021
 
 # Camunda Spring Boot Template (camunda-spring-boot-template)
 Diese Template-Repository wird an der ZHAW im Modul Geschäftsprozessintegration genutzt als Ausgangspunkt für auf Camunda beruhende Projekte. Enthalten sind folgende Funktionalitäten:
 1. Spring Boot konfiguriert für Tomcat
 2. Camunda Spring Boot Starter
-3. Camunda Process Engine, REST API und Webapps (Tasklist, Cockpit, Admin) (Enterprise Edition)
+3. Camunda Process Engine, REST API und Webapps (Tasklist, Cockpit, Admin) (Enterprise Edition) inkl. einem Cockpit-Plugin
 4. Filebasierte H2-Datenbank
 5. Spring Boot Starter Mail für den Email-Versand 
 6. "Sinnvolle" Grundkonfiguration in application.properties für Camunda, Datenbank, Tomcat
